@@ -96,7 +96,7 @@ Les heatmaps mettent en évidence les stations les plus utilisées :
 
 <img width="435" height="396" alt="Capture d’écran 2025-12-23 054231" src="https://github.com/user-attachments/assets/ea63a25b-3a65-4b17-bbdc-d60fd2208310" />
 
-<img width="480" height="313" alt="Capture d’écran 2025-12-23 054307" src="https://github.com/user-attachments/assets/e9a80de3-13c8-415b-bc69-99c55f1d70a0" />
+<img width="470" height="298" alt="Capture d’écran 2025-12-23 054446" src="https://github.com/user-attachments/assets/972b1a98-75e4-4e87-9ef8-0e68c6d735da" />
 
 
 - **Pershing Square North** :  

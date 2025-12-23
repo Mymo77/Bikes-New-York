@@ -74,6 +74,9 @@ Le réseau de vélos se concentre très fortement à **Manhattan**, notamment da
 - Chelsea,
 - Financial District.
 
+<img width="413" height="451" alt="Capture d’écran 2025-12-23 054112" src="https://github.com/user-attachments/assets/26fb4bc9-27e9-4c99-91cc-30b0a83d9414" />
+
+
 Des stations comme **Pershing Square North**, située à proximité immédiate de **Grand Central Terminal**, jouent un rôle central dans les départs et arrivées. Cette concentration s’explique par :
 - la densité d’emplois,
 - la présence de hubs de transport,
@@ -90,6 +93,11 @@ Ces résultats indiquent que la majorité des trajets observés sont **intra-Man
 ## Visualisations et Mesures
 
 Les heatmaps mettent en évidence les stations les plus utilisées :
+
+<img width="435" height="396" alt="Capture d’écran 2025-12-23 054231" src="https://github.com/user-attachments/assets/ea63a25b-3a65-4b17-bbdc-d60fd2208310" />
+
+<img width="480" height="313" alt="Capture d’écran 2025-12-23 054307" src="https://github.com/user-attachments/assets/e9a80de3-13c8-415b-bc69-99c55f1d70a0" />
+
 
 - **Pershing Square North** :  
   - 6 437 départs  
